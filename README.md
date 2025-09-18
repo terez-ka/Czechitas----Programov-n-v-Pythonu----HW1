@@ -1,4 +1,4 @@
-# Czechitas----Programov-n-v-Pythonu----HW1
+# Czechitas----Programování-v-Pythonu----HW1
 Úkol byl zpracován v rámci dlouhodobého kurzu **Czechitas – Programování v Pythonu**. Úkol sloužil k procvičení objektově orientovaného programování v Pythonu (OOP).  
 Níže je uvedeno zadání: 
 Tvým úkolem je vytvořit program pro zjednodušený výpočet daně z nemovitostí. Aplikace bude postavená na principech OOP. Tato daň se vztahuje na pozemky, bytové a komerční prostory. Výše daně se odvíjí od několika faktorů, např. typu nemovitosti, velikosti, lokalitě, kde se nemovitost nachází atd.
